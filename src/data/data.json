@@ -4,17 +4,8 @@
     "paragraph": "Faber Defence olarak, ulusal güvenliği korumak ve geliştirmek için en son savunma teknolojilerini sunuyoruz. Yenilik, güvenilirlik ve mükemmellik konusundaki kararlılığımız, bizi savunma sektöründe ön sıralarda tutuyor. Dünya genelinde hükümetlere ve kuruluşlara hizmet vermekten gurur duyuyoruz."
   },
   "About": {
-    "paragraph": "Faber Teknoloji, uzun yıllara dayanan tecrübeye sahip, alanında uzman bir ekip tarafından kurulmuştur. Müşteri memnuniyetini en üst seviyede tutmayı hedefleyen firmamız, global standartlarda çözümler sunarak, ülkemizin savunma sanayindeki gücünü artırmayı misyon edinmiştir.",
-    "Why": [
-      "Uzman Kadro: Alanında uzman mühendisler ve teknik ekip ile her projeye en iyi çözümleri sunuyoruz.",
-      "Yenilikçi Çözümler: Sürekli gelişen teknolojiye uyum sağlayarak, en güncel ve yenilikçi savunma sanayi çözümlerini geliştiriyoruz.",
-      "Yüksek Kalite Standartları: Ar-Ge'den seri üretime kadar her aşamada titizlikle kalite kontrol süreçlerini uyguluyoruz."
-    ],
-    "Why2": [
-      "Yerli Üretim Güvencesi: Makine, ekipman ve parçaların yerlileştirilmesi konusunda öncü bir yaklaşım benimsiyor, ülke savunması için yerli çözümler üretiyoruz.",
-      "Güvenilir ve Zamanında Teslimat: Projelerimizi taahhüt edilen süre içerisinde, beklentileri karşılayacak şekilde teslim etmeyi garanti ediyoruz.",
-      "Esneklik ve Özel Çözümler: Müşteri ihtiyaçlarına göre özelleştirilebilir hizmetler sunarak projelerinizi en verimli ve etkili şekilde gerçekleştiriyoruz."
-    ]
+    "paragraph": "Faber Teknoloji, uzun yıllara dayanan tecrübeye sahip, alanında uzman bir ekip tarafından kurulmuştur. Müşteri memnuniyetini en üst seviyede tutmayı hedefleyen firmamız, global standartlarda çözümler sunarak, ülkemizin savunma sanayindeki gücünü artırmayı misyon edinmiştir."
+    
   },
   "Gallery": [
     {
@@ -151,7 +142,7 @@
   ],
   "Contact": {
     "address": "Adres: çukurambar mahallesi muhsin yazıcıoğlu caddesi no:8/12 çankaya/ankara",
-    "phone1": "+90 534 305 34 55", 
+    "phone1": "+90 534 305 34 55",
     "phone2": "+90 546 419 07 02",
     "email": "info@faber.tr",
     "facebook": "fb.com",
