@@ -1,0 +1,183 @@
+{
+  "Header": {
+    "title": "Geleceği Güvence Altına Alıyoruz",
+    "paragraph": "Faber Defence olarak, ulusal güvenliği korumak ve geliştirmek için en son savunma teknolojilerini sunuyoruz. Yenilik, güvenilirlik ve mükemmellik konusundaki kararlılığımız, bizi savunma sektöründe ön sıralarda tutuyor. Dünya genelinde hükümetlere ve kuruluşlara hizmet vermekten gurur duyuyoruz."
+  },
+  "About": {
+    "paragraph": "Faber Teknoloji, uzun yıllara dayanan tecrübeye sahip, alanında uzman bir ekip tarafından kurulmuştur. Müşteri memnuniyetini en üst seviyede tutmayı hedefleyen firmamız, global standartlarda çözümler sunarak, ülkemizin savunma sanayindeki gücünü artırmayı misyon edinmiştir.",
+    "Why": [
+      "Uzman Kadro: Alanında uzman mühendisler ve teknik ekip ile her projeye en iyi çözümleri sunuyoruz.",
+      "Yenilikçi Çözümler: Sürekli gelişen teknolojiye uyum sağlayarak, en güncel ve yenilikçi savunma sanayi çözümlerini geliştiriyoruz.",
+      "Yüksek Kalite Standartları: Ar-Ge'den seri üretime kadar her aşamada titizlikle kalite kontrol süreçlerini uyguluyoruz."
+    ],
+    "Why2": [
+      "Yerli Üretim Güvencesi: Makine, ekipman ve parçaların yerlileştirilmesi konusunda öncü bir yaklaşım benimsiyor, ülke savunması için yerli çözümler üretiyoruz.",
+      "Güvenilir ve Zamanında Teslimat: Projelerimizi taahhüt edilen süre içerisinde, beklentileri karşılayacak şekilde teslim etmeyi garanti ediyoruz.",
+      "Esneklik ve Özel Çözümler: Müşteri ihtiyaçlarına göre özelleştirilebilir hizmetler sunarak projelerinizi en verimli ve etkili şekilde gerçekleştiriyoruz."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Uzman Kadro",
+      "text": "Alanında uzman mühendisler ve teknik ekip ile her projeye en iyi çözümleri sunuyoruz."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Yenilikçi Çözümler",
+      "text": "Sürekli gelişen teknolojiye uyum sağlayarak, en güncel ve yenilikçi savunma sanayi çözümlerini geliştiriyoruz."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Yüksek Kalite Standartları",
+      "text": "Ar-Ge'den seri üretime kadar her aşamada titizlikle kalite kontrol süreçlerini uyguluyoruz."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Yerli Üretim Güvencesi",
+      "text": "Makine, ekipman ve parçaların yerlileştirilmesi konusunda öncü bir yaklaşım benimsiyor, ülke savunması için yerli çözümler üretiyoruz."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Güvenilir ve Zamanında Teslimat",
+      "text": "Projelerimizi taahhüt edilen süre içerisinde, beklentileri karşılayacak şekilde teslim etmeyi garanti ediyoruz."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Esneklik ve Özel Çözümler",
+      "text": "Müşteri ihtiyaçlarına göre özelleştirilebilir hizmetler sunarak projelerinizi en verimli ve etkili şekilde gerçekleştiriyoruz."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Adres: çukurambar mahallesi muhsin yazıcıoğlu caddesi no:8/12 çankaya/ankara",
+    "phone1": "+90 534 305 34 55", 
+    "phone2": "+90 546 419 07 02",
+    "email": "info@faber.tr",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Ar-Ge",
+      "text": "Sanayinde ihtiyaç duyulan ürünlerin geliştirilmesi için Ar-Ge çalışmalarımıza büyük önem veriyoruz. Ekibimiz, en yeni teknolojiler ve malzemelerle yenilikçi çözümler üretmektedir. Müşterilerimize maliyet etkin ve özgün ürünler sunmak için çalışıyoruz."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Tasarım",
+      "text": "Sanayinin karmaşık ve yüksek standartlar gerektiren yapısını dikkate alarak, yenilikçi ve işlevsel tasarımlar geliştiriyoruz. Projeleriniz için en uygun ve dayanıklı çözümleri sağlarken, estetik ve mühendislik dengesini gözetiyoruz. Ekibimiz, ihtiyaçlarınıza en uygun mühendislik tasarımlarını sunarak projelerinizi hayata geçiriyor."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Prototipleme ve Seri İmalat",
+      "text": "Geliştirdiğimiz tasarımların sahada test edilebilir olması için prototipleme sürecini titizlikle yürütüyoruz. Bu aşamada, yüksek doğruluk ve kaliteyi esas alarak prototiplerinizi hazırlıyoruz. Seri imalat sürecinde ise kalite kontrol süreçlerimizle güvenilir üretim sağlıyoruz."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Yerlileştirme",
+      "text": "Dışa bağımlılığı azaltmak ve yerlilik oranını artırmak amacıyla yerlileştirme çalışmalarımızla ülkemiz sanayisine katkı sunuyoruz. Makine, ekipman ve yedek parçaların yerli üretimini mümkün kılarak, sanayide daha bağımsız ve güçlü bir yapının oluşmasına destek veriyoruz"
+    }
+  ]
+}

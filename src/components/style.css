@@ -1,0 +1,9 @@
+.service-text {
+    margin: 0 20 10px;
+}
+
+.headerLogo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
