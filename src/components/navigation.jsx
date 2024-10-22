@@ -57,7 +57,7 @@ export const Navigation = () => {
               <a href="#team" className="page-scroll">Takım</a>
             </li> */}
             <li>
-              <a href="#contact" className="page-scroll">İletişim</a>
+              <a href="#contact2" className="page-scroll">İletişim</a>
             </li>
           </ul>
         </div>
