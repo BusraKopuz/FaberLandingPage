@@ -4,7 +4,7 @@
     "paragraph": "Faber Defence olarak, ulusal güvenliği korumak ve geliştirmek için en son savunma teknolojilerini sunuyoruz. Yenilik, güvenilirlik ve mükemmellik konusundaki kararlılığımız, bizi savunma sektöründe ön sıralarda tutuyor. Dünya genelinde hükümetlere ve kuruluşlara hizmet vermekten gurur duyuyoruz."
   },
   "About": {
-    "paragraph": "Faber Teknoloji, uzun yıllara dayanan tecrübeye sahip, alanında uzman bir ekip tarafından kurulmuştur. Müşteri memnuniyetini en üst seviyede tutmayı hedefleyen firmamız, global standartlarda çözümler sunarak, ülkemizin savunma sanayindeki gücünü artırmayı misyon edinmiştir."
+    "paragraph": "Faber Teknoloji olarak, ulusal güvenliği korumak ve geliştirmek için savunma teknolojileri üzerine çalışıyoruz."
     
   },
   "Gallery": [
@@ -56,7 +56,7 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "image": "assets/teamWork.svg",
       "name": "Uzman Kadro",
       "text": "Alanında uzman mühendisler ve teknik ekip ile her projeye en iyi çözümleri sunuyoruz."
     },
@@ -66,6 +66,7 @@
       "text": "Sürekli gelişen teknolojiye uyum sağlayarak, en güncel ve yenilikçi savunma sanayi çözümlerini geliştiriyoruz."
     },
     {
+      "image": "assets/check.svg",
       "icon": "fa fa-cloud-download",
       "name": "Yüksek Kalite Standartları",
       "text": "Ar-Ge'den seri üretime kadar her aşamada titizlikle kalite kontrol süreçlerini uyguluyoruz."
