@@ -159,6 +159,7 @@ hr {
   margin-left: -30px;
   left: 50%;
 }
+
 .section-title p {
   font-size: 18px;
 }
@@ -458,24 +459,24 @@ header .intro-text {
   color: #888;
 }
 /* Contact Section */
-#contact {
+#contact2 {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  color: rgba(255, 255, 255, 0.75);
+  background: #fff;
+  color: 3333;
 }
-#contact .section-title {
+#contact2 .section-title {
   margin-bottom: 40px;
 }
-#contact .section-title p {
+#contact2 .section-title p {
   font-size: 16px;
 }
-#contact h2 {
-  color: #fff;
+#contact2 h2 {
+  color: 33333;
   margin-top: 10px;
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
-#contact .section-title h2::after {
+#contact2 .section-title h2::after {
   position: absolute;
   content: "";
   background: rgba(255, 255, 255, 0.3);
@@ -484,26 +485,26 @@ header .intro-text {
   bottom: 0;
   left: 30px;
 }
-#contact h3 {
-  color: #fff;
-  margin-top: 80px;
+#contact2 h3 {
+  color: 33333;
+  margin-top: 40px;
   margin-bottom: 25px;
   padding-bottom: 20px;
   font-weight: 400;
 }
-#contact form {
+#contact2 form {
   padding-top: 20px;
 }
-#contact .text-danger {
+#contact2 .text-danger {
   color: #cc0033;
   text-align: left;
 }
-#contact .btn-custom {
+#contact2 .btn-custom {
   margin: 30px 0;
   background: transparent;
   border: 2px solid #fff;
 }
-#contact .btn-custom:hover {
+#contact2 .btn-custom:hover {
   color: #1f386e;
   background: #fff;
 }
@@ -513,7 +514,7 @@ label {
   font-family: "Open Sans", sans-serif;
   float: left;
 }
-#contact .form-control {
+#contact2 .form-control {
   display: block;
   width: 100%;
   padding: 6px 12px;
@@ -530,7 +531,7 @@ label {
   -o-transition: none;
   transition: none;
 }
-#contact .form-control:focus {
+#contact2 .form-control:focus {
   border-color: #999;
   outline: 0;
   -webkit-box-shadow: transparent;
@@ -548,40 +549,40 @@ label {
 .form-control:-ms-input-placeholder {
   color: #777;
 }
-#contact .contact-item {
+#contact2 .contact-item {
   margin: 20px 0;
 }
-#contact .contact-item span {
-  color: rgba(255, 255, 255, 1);
+#contact2 .contact-item span {
+  color: 3333;
   margin-bottom: 10px;
   display: block;
 }
-#contact .contact-item i.fa {
+#contact2 .contact-item i.fa {
   margin-right: 10px;
 }
-#contact .social {
-  border-top: 1px solid rgba(255, 255, 255, 0.15);
+#contact2 .social {
+  border-top: 1px solid #608dfd;
   padding-top: 50px;
   margin-top: 50px;
   text-align: center;
 }
-#contact .social ul li {
+#contact2 .social ul li {
   display: inline-block;
   margin: 0 20px;
 }
-#contact .social i.fa {
+#contact2 .social i.fa {
   font-size: 22px;
   width: 48px;
   height: 48px;
   padding: 12px 0;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid #608dfd;
+  color: #608dfd;
   border-radius: 50%;
   transition: all 0.3s;
 }
-#contact .social i.fa:hover {
-  color: #608dfd;
-  background: #fff;
+#contact2 .social i.fa:hover {
+  color: #fff;
+  background: #608dfd;
 }
 /* Footer Section*/
 #footer {

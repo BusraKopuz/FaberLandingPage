@@ -47,15 +47,15 @@ export const Navigation = () => {
             <li>
               <a href="#services" className="page-scroll">Servis</a>
             </li>
-            <li>
+            {/* <li>
               <a href="#portfolio" className="page-scroll">Galeri</a>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <a href="#testimonials" className="page-scroll">Referanslar</a>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <a href="#team" className="page-scroll">Takım</a>
-            </li>
+            </li> */}
             <li>
               <a href="#contact" className="page-scroll">İletişim</a>
             </li>

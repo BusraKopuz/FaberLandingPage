@@ -56,11 +56,12 @@
   ],
   "Services": [
     {
-      "image": "assets/teamWork.svg",
+      "image": "assets/collaborative.svg",
       "name": "Uzman Kadro",
       "text": "Alanında uzman mühendisler ve teknik ekip ile her projeye en iyi çözümleri sunuyoruz."
     },
     {
+      "image": "assets/rocket.svg",
       "icon": "fa fa-cart-arrow-down",
       "name": "Yenilikçi Çözümler",
       "text": "Sürekli gelişen teknolojiye uyum sağlayarak, en güncel ve yenilikçi savunma sanayi çözümlerini geliştiriyoruz."
@@ -72,16 +73,19 @@
       "text": "Ar-Ge'den seri üretime kadar her aşamada titizlikle kalite kontrol süreçlerini uyguluyoruz."
     },
     {
+      "image": "assets/production.svg",
       "icon": "fa fa-language",
       "name": "Yerli Üretim Güvencesi",
       "text": "Makine, ekipman ve parçaların yerlileştirilmesi konusunda öncü bir yaklaşım benimsiyor, ülke savunması için yerli çözümler üretiyoruz."
     },
     {
+      "image": "assets/running.svg",
       "icon": "fa fa-plane",
       "name": "Güvenilir ve Zamanında Teslimat",
       "text": "Projelerimizi taahhüt edilen süre içerisinde, beklentileri karşılayacak şekilde teslim etmeyi garanti ediyoruz."
     },
     {
+      "image": "assets/puzzle.svg",
       "icon": "fa fa-pie-chart",
       "name": "Esneklik ve Özel Çözümler",
       "text": "Müşteri ihtiyaçlarına göre özelleştirilebilir hizmetler sunarak projelerinizi en verimli ve etkili şekilde gerçekleştiriyoruz."
