@@ -1,6 +1,7 @@
 {
   "Header": {
-    "paragraph": "Faber Teknoloji olarak, ulusal güvenliği korumak ve geliştirmek için en son savunma teknolojilerini sunuyoruz. Yenilik, güvenilirlik ve mükemmellik konusundaki kararlılığımız, bizi savunma sektöründe ön sıralarda tutuyor. Dünya genelinde hükümetlere ve kuruluşlara hizmet vermekten gurur duyuyoruz."
+    "title": "Geleceği Güvence Altına Alıyoruz",
+    "paragraph": "Faber Teknoloji olarak, ulusal güvenliği korumak ve geliştirmek için savunma teknolojileri üzerine çalışıyoruz."
   },
   "About": {
     "paragraph": "Faber Teknoloji olarak, ulusal güvenliği korumak ve geliştirmek için savunma teknolojileri üzerine çalışıyoruz."
@@ -145,13 +146,11 @@
     }
   ],
   "Contact": {
-    "address": "Adres: çukurambar mahallesi muhsin yazıcıoğlu caddesi no:8/12 çankaya/ankara",
+    "address": "Adres: Çukurambar Mah. Muhsin Yazıcıoğlu Cad. No:8/12 Çankaya/ANKARA",
     "phone1": "+90 534 305 34 55",
     "phone2": "+90 546 419 07 02",
     "email": "info@faber.tr",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "linkedin": "https://www.linkedin.com/company/fabertr/"
   },
   "Features": [
     {
